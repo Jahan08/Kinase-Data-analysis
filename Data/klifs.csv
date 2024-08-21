@@ -1,0 +1,39 @@
+kinase_klifs,kinase,group,full_kinase_name,uniprot_id
+CDC2,CDK1,CMGC,cyclin-dependent kinase 1,P06493
+CDC7,CDC7,Other,cell division cycle 7,O00311
+CDK10,CDK10,CMGC,cyclin-dependent kinase 10,Q15131
+CDK11,CDK19,CMGC,cyclin-dependent kinase 19,Q9BWU1
+CDK2,CDK2,CMGC,cyclin-dependent kinase 2,P24941
+CDK3,CDK3,CMGC,cyclin-dependent kinase 3,Q00526
+CDK4,CDK4,CMGC,cyclin-dependent kinase 4,P11802
+CDK5,CDK5,CMGC,cyclin-dependent kinase 5,Q00535
+CDK6,CDK6,CMGC,cyclin-dependent kinase 6,Q00534
+CDK7,CDK7,CMGC,cyclin-dependent kinase 7,P50613
+CDK8,CDK8,CMGC,cyclin-dependent kinase 8,P49336
+CDK9,CDK9,CMGC,cyclin-dependent kinase 9,P50750
+CDKL1,CDKL1,CMGC,cyclin dependent kinase like 1,Q00532
+CDKL2,CDKL2,CMGC,cyclin dependent kinase like 2,Q92772
+CDKL3,CDKL3,CMGC,cyclin dependent kinase like 3,Q8IVW4
+CDKL4,CDKL4,CMGC,cyclin dependent kinase like 4,Q5MAI5
+CDKL5,CDKL5,CMGC,cyclin dependent kinase like 5,O76039
+FLT3,FLT3,TK,fms related tyrosine kinase 3,P36888
+FLT4,FLT4,TK,fms related tyrosine kinase 4,P35916
+JAK1,JAK1,TK,Janus kinase 1,P23458
+JAK1-b,JAK1-b,TK,Janus kinase 1 (2nd domain),P23458
+JAK2,JAK2,TK,Janus kinase 2,O60674
+JAK2-b,JAK2-b,TK,Janus kinase 2 (2nd domain),O60674
+JAK3,JAK3,TK,Janus kinase 3,P52333
+JAK3-b,JAK3-b,TK,Janus kinase 3 (2nd domain),P52333
+JNK1,MAPK8,CMGC,mitogen-activated protein kinase 8,P45983
+JNK2,MAPK9,CMGC,mitogen-activated protein kinase 9,P45984
+JNK3,MAPK10,CMGC,mitogen-activated protein kinase 10,P53779
+LRRK1,LRRK1,TKL,leucine-rich repeat kinase 1,Q38SD2
+LRRK2,LRRK2,TKL,leucine-rich repeat kinase 2,Q5S007
+PLK1,PLK1,Other,polo like kinase 1,P53350
+PLK2,PLK2,Other,polo like kinase 2,Q9NYY3
+PLK3,PLK3,Other,polo like kinase 3,Q9H4B4
+PLK4,PLK4,Other,polo like kinase 4,O00444
+RET,RET,TK,ret proto-oncogene,P07949
+RIPK1,RIPK1,TKL,receptor interacting serine/threonine kinase 1,Q13546
+RIPK2,RIPK2,TKL,receptor interacting serine/threonine kinase 2,O43353
+RIPK3,RIPK3,TKL,receptor interacting serine/threonine kinase 3,Q9Y572
